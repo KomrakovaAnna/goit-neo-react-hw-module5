@@ -1,0 +1,13 @@
+h2,
+h3 {
+  color: rgb(68, 228, 143);
+  margin-left: 30px;
+}
+h1 {
+  color: rgb(3, 84, 41);
+  margin-left: 30px;
+}
+.MovieDetailsPage a {
+  color: rgb(4, 150, 72);
+  margin-left: 15px;
+}

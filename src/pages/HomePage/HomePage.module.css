@@ -1,0 +1,14 @@
+.HomePage {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.HomePage h1 {
+  text-align: center;
+  color: rgb(7, 91, 46);
+  margin: 0;
+}
+.HomePage a {
+  color: rgb(4, 123, 60);
+  margin-left: 15px;
+}
